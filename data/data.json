@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Arbeit annehmen?",
+        "decision": true
+    },
+    {
+        "title": "Umziehen?",
+        "decision": false
+    }
+]
